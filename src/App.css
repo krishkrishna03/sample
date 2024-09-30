@@ -1,0 +1,17 @@
+.welcome-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.welcome-message {
+  font-size: 2.5rem;
+  color: #4CAF50;
+}
+
+.welcome-image {
+  width: 50%;
+  height: auto;
+  margin-top: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
